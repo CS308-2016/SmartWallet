@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+        <color name="theme_primary">#ffcb04</color>
+        <color name="theme_primary_dark">#FFA000</color>
+        <color name="theme_translucent_bg">#ffffcb04</color>
+        <color name="theme_highlight_bg">#77FF8F00</color>
+
+        <color name="theme_btn_color">#404041</color>
+
+        <!--Black and white-->
+        <color name="black">#000000</color>
+        <color name="white">#ffffff</color>
+
+        <color name="theme_black">#404041</color>
+        <color name="theme_gray">#dcdcdc</color>
+        <color name="theme_blue">#0c7bf8</color>
+        <color name="theme_purple">#4527A0</color>
+
+        <color name="transparent_white">#AAFFFFFF</color>
+        <color name="transparent_black">#AA000000</color>
+        <!--Grays-->
+        <color name="off_white">#EEEEEE</color>
+        <color name="lighter_gray">#E0E0E0</color>
+        <color name="light_gray">#A0A0A0</color>
+        <color name="medium_gray">#808080</color>
+        <color name="dark_gray">#505050</color>
+        <color name="darker_gray">#303030</color>
+
+        <color name="crimson">#D03333</color>
+        <color name="crimson_dark">#B03333</color>
+
+        <color name="body_text_1">#de000000</color>
+        <color name="body_text_2">#8a000000</color>
+        <color name="body_text_3">#60000000</color>
+        <color name="body_text_disabled">#44000000</color>
+
+        <color name="theme_green">#4CAF50</color>
+        <color name="theme_orange">#FF9800</color>
+        <color name="theme_red">#F44336</color>
+
+        <color name="edit_text_light_gray">#cccccc</color>
+        <color name="edit_text_dark_gray">#4a4a4a</color>
+
+        <color name="circular_progress_default_progress">#bada55</color>
+        <color name="circular_progress_default_background">#787878</color>
+        <color name="circular_progress_default_title">#bada55</color>
+        <color name="circular_progress_default_subtitle">#D1D1D1</color>
+
+</resources>

@@ -1,0 +1,15 @@
+Hi, this is team smart wallet. I am Shivam Garg. In this video, I will show you how to setup the code for the hardware part of smart wallet. For the hardware part, we
+have used TIVA C Series TM4c123G launchpad. For coding, we have used code composer studio. To know the details of how to install and create a project in CCS, go to this link
+https://www.cse.iitb.ac.in/~erts/html_pages/Experiments/Lab-0.zip and download the file Lab-0.zip.
+
+Once you unzip Lab-0.zip, you will see the pdf named Lab_0_Handout. Open this pdf and follow the instructions to install CCS and create a new project.
+
+Afer successfully creating a project in CCS, unzip the file 2016-cs308-smart_wallet.zip. Go to the folder 2016-cs308-smart_wallet, then go to the code folder, and then 
+to the microcontroller code folder. This folder contains all the file srequired for the microcontroller. 
+
+Now, open CCS. In CCS, you have created a project. In the project explorer, right-click on the project name which is Lab0 in this case. Now, click on "add files". From here,
+select all the files to be added. Then, click on open. Here, select the option "Copy files". Then, click on Ok. Now, you van see that you have successfully imported all the files
+that were there in the folder. Now, to compile this code, click on this hammer like button. Now, the code is successfully compiled. To run this code, click on this button.
+And finally, click on the resume button. At this stage, the code will succesfully in your microcontroller. So, this is the end of video. In this video, you saw, how to run
+the code on microcontroller.
+
